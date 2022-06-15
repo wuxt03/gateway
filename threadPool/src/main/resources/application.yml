@@ -1,0 +1,8 @@
+http:
+  port: 8083
+spring:
+  application:
+    name: thread-pool
+server:
+  servlet:
+    context-path: /thread-pool
